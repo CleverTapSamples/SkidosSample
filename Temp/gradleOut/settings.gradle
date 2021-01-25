@@ -1,0 +1,2 @@
+include 'FirebaseApp.androidlib'
+include 'unity-android-resources'

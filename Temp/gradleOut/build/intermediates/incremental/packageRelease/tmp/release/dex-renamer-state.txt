@@ -1,0 +1,4 @@
+#Mon Jan 25 14:06:59 IST 2021
+base.0=/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

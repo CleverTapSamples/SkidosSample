@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_cover_image.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_cover_image.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_activity.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_activity.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_html_header.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_html_header.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_footer.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_footer.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inbox_icon_message_layout.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inbox_icon_message_layout.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inbox_simple_message_layout.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inbox_simple_message_layout.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_half_interstitial.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_half_interstitial.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_cover.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_cover.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_html_full.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_html_full.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inbox_list_view.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inbox_list_view.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_interstitial.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_interstitial.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_header.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_header.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inbox_carousel_image_layout.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inbox_carousel_image_layout.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_interstitial_image.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_interstitial_image.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_html_footer.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_html_footer.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inapp_half_interstitial_image.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inapp_half_interstitial_image.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inbox_activity.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inbox_activity.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inbox_carousel_text_layout.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inbox_carousel_text_layout.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout/inbox_carousel_layout.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout/inbox_carousel_layout.xml"
+    }
+]

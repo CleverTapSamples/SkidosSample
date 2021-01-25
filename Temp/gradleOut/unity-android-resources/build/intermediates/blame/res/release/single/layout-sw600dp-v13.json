@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout-sw600dp-v13/inapp_cover.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout-sw600dp/inapp_cover.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout-sw600dp-v13/inapp_cover_image.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout-sw600dp/inapp_cover_image.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout-sw600dp-v13/tab_inapp_interstitial.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout-sw600dp/tab_inapp_interstitial.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout-sw600dp-v13/tab_inapp_half_interstitial_image.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout-sw600dp/tab_inapp_half_interstitial_image.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout-sw600dp-v13/tab_inapp_half_interstitial.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout-sw600dp/tab_inapp_half_interstitial.xml"
+    },
+    {
+        "merged": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/build/intermediates/res/merged/release/layout-sw600dp-v13/tab_inapp_interstitial_image.xml",
+        "source": "/Users/kumar/UnityProjects/SkidosSample/Temp/gradleOut/unity-android-resources/res/layout-sw600dp/tab_inapp_interstitial_image.xml"
+    }
+]
