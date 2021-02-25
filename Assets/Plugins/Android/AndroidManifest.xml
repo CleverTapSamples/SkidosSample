@@ -83,15 +83,15 @@
 
         <meta-data
             android:name="FCM_SENDER_ID"
-            android:value="id:453001561419" />
+            android:value="id:173922228912" />
 
         <meta-data
             android:name="CLEVERTAP_ACCOUNT_ID"
-            android:value="48Z-795-765Z" />
+            android:value="445-488-575Z" />
 
         <meta-data
             android:name="CLEVERTAP_TOKEN"
-            android:value="5ca-1b4" />
+            android:value="bb4-544" />
 
         <service
                 android:name="com.clevertap.android.sdk.pushnotification.fcm.FcmMessageListenerService"

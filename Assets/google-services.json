@@ -1,63 +1,42 @@
 {
   "project_info": {
-    "project_number": "338374641410",
-    "project_id": "beardedrobot-2",
-    "storage_bucket": "beardedrobot-2.appspot.com"
+    "project_number": "173922228912",
+    "firebase_url": "https://shoppy-app-6deb9.firebaseio.com",
+    "project_id": "shoppy-app-6deb9",
+    "storage_bucket": "shoppy-app-6deb9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:338374641410:android:51b32dfc47c5fd0916241b",
+        "mobilesdk_app_id": "1:173922228912:android:f45b67a559f79a2cc27975",
         "android_client_info": {
-          "package_name": "com.clevertap.beardedrobot_2"
+          "package_name": "com.clevertap.android.shoppy"
         }
       },
       "oauth_client": [
         {
-          "client_id": "338374641410-vj62valaq4jjj8uuqnltbq60c5stag66.apps.googleusercontent.com",
+          "client_id": "173922228912-o2l1er7s0p14f1kh9i13nkaif5k1ebvu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDKTiKCL2ImjxnHIzH2Kg4pMPDGequyxRQ"
+          "current_key": "AIzaSyDJA_8_7u0O0p_QqenIoVD8ZEyJjNge4kM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "338374641410-vj62valaq4jjj8uuqnltbq60c5stag66.apps.googleusercontent.com",
+              "client_id": "173922228912-o2l1er7s0p14f1kh9i13nkaif5k1ebvu.apps.googleusercontent.com",
               "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:338374641410:android:dac0d4b50f819a1516241b",
-        "android_client_info": {
-          "package_name": "com.clevertap.example"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "338374641410-vj62valaq4jjj8uuqnltbq60c5stag66.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDKTiKCL2ImjxnHIzH2Kg4pMPDGequyxRQ"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
+            },
             {
-              "client_id": "338374641410-vj62valaq4jjj8uuqnltbq60c5stag66.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "173922228912-l4c0dvmfj27dr1os1isue195amppg59s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clevertap.ios"
+              }
             }
           ]
         }

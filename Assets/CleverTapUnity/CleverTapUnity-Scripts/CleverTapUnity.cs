@@ -159,8 +159,8 @@ public class CleverTapUnity : MonoBehaviour
 
         // reset the user profile after a login with a new Identity
         Dictionary<string, string> newProps = new Dictionary<string, string>();
-        newProps.Add("email", "test@test.com");
-        newProps.Add("Identity", "123456");
+        newProps.Add("email", "test11@test.com");
+        newProps.Add("Identity", "1234567");
         CleverTapBinding.OnUserLogin(newProps);
 
 
